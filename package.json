@@ -1,0 +1,11 @@
+{
+  "name": "socketIO-Chat-App",
+  "version": "0.0.1",
+  "description": "Chat app using socket.io... oh wow!",
+  "main": "index.js",
+  "author": "Sterling Baldwin",
+  "dependencies": {
+    "socket.io": "latest",
+    "express": "latest"
+  }
+}
